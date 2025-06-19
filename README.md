@@ -19,7 +19,6 @@ I am currently based in Kolkata and pursuing my studies in Computer Science. I'm
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
 <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,java,anaconda,vscode,aws,mysql,sklearn&perline=8)](https://skillicons.dev)
 ## Certifications
 
 - [TATA : Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_JCM2mQ2bPDRCbyayQ_1748934071212_completion_certificate.pdf) - TATA Group, 2025
